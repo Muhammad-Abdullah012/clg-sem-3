@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Data Structure Practices\Project1\Project1\Source.cpp(24,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\Data Structure Practices\Project1\x64\Debug\Project1.exe

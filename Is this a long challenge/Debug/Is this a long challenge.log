@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Data Structure Practices\Is this a long challenge\main.cpp(23,48): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\Data Structure Practices\Is this a long challenge\main.cpp(23,35): warning C4244: 'initializing': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\Data Structure Practices\Is this a long challenge\main.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure Practices\Is this a long challenge\main.cpp(26,28): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+D:\Data Structure Practices\Is this a long challenge\main.cpp(31,28): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+  Is this a long challenge.vcxproj -> D:\Data Structure Practices\Is this a long challenge\Debug\Is this a long challenge.exe
